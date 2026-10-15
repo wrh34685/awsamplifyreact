@@ -1,2 +1,2 @@
-# Empty - AWS-Amplify-Reactwsamplifyreact
+# Empty - AWS-Amplify-React
 AWS Amplify React Project. 
